@@ -27,8 +27,6 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 - STM32CubeIDE
 - STM32CubeMX
 
----
-
 ## Software Architecture
                 +---------------------+
                 |   Physical Sensors (optional)  |
