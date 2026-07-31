@@ -21,7 +21,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 
 ---
 
-## Hardware
+## Hardware/Tools
 
 - STM32 NUCLEO-L476RG board & ATK-BLE05 Module
 - STM32CubeIDE
