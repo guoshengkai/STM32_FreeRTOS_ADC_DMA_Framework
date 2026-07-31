@@ -12,8 +12,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 - Multi-thread architecture
 - Multi-channel ADC scan mode
 - DMA Circular Mode
-- DMA Half Transfer Callback
-- DMA Full Transfer Callback
+- DMA Half/Full Transfer Callback
 - Channel de-interleaving
 - UART communication (to ATK-BLE05 BLE module)
 - Modular ADC driver (`app_adc.c`)
@@ -24,8 +23,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 
 ## Hardware
 
-- STM32 NUCLEO-L476RG & ATK-BLE05 Module
-- ARM Cortex-M4F @ 80 MHz
+- STM32 NUCLEO-L476RG board & ATK-BLE05 Module
 - STM32CubeIDE
 - STM32CubeMX
 
@@ -33,7 +31,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 
 ## Software Architecture
                 +---------------------+
-                |   Physical Sensors  |
+                |   Physical Sensors (optional)  |
                 +----------+----------+
                            |
                            v
