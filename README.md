@@ -44,7 +44,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
                            |
           +----------------+----------------+
           |                                 |
- Half Transfer Callback           Full Transfer Callback
+          |    Half/Full Transfer Callback  |
           |                                 |
           +----------------+----------------+
                            |
