@@ -29,7 +29,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
 
 ## Software Architecture
                 +---------------------+
-                |   Physical Sensors (optional)  |
+                |   Physical Sensors  |
                 +----------+----------+
                            |
                            v
