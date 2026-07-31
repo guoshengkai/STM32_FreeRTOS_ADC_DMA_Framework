@@ -72,6 +72,7 @@ The project demonstrates how to combine FreeRTOS (CMSIS-RTOS V2), multi-channel 
                 | UART / BLE          |
                 +---------------------+
 
+
 | Function | Status |
 |----------|--------|
 | FreeRTOS (CMSIS-V2) | ✅ |
